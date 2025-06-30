@@ -9,10 +9,10 @@ Sou estudante de Engenharia de Software na PUC Minas, com experiência prática 
 
 ## Sobre mim
 
-- 🎓 Graduando em Engenharia de Software pela PUC Minas  
-- 🔎 Interesses: backend, estruturas de dados, IA aplicada e sistemas embarcados  
-- 💼 Projetos acadêmicos e pessoais com foco em qualidade de código e usabilidade  
-- ⚙️ Gosto de trabalhar com boas práticas de versionamento, testes e modelagem  
+- Graduando em Engenharia de Software pela PUC Minas  
+- Interesses: backend, estruturas de dados, IA aplicada e sistemas embarcados  
+- Projetos acadêmicos e pessoais com foco em qualidade de código e usabilidade  
+- Gosto de trabalhar com boas práticas de versionamento, testes e modelagem  
 
 ---
 
@@ -35,10 +35,10 @@ Sou estudante de Engenharia de Software na PUC Minas, com experiência prática 
 ![Java](https://img.shields.io/badge/Java_Backend-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🧠 Banco de Dados
+### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Ferramentas e Plataformas
+### ⚙Ferramentas e Plataformas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
