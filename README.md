@@ -47,16 +47,11 @@ Sou estudante de Engenharia de Software na PUC Minas, com experiência prática 
 
 ## Estatísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlusHZP&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/aulushzp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AulusHZP&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/aulushzp/github-readme-stats)
 
 ---
 
-## Projetos em Destaque
 
-- 🔧 [Guess Number App](https://github.com/AulusHZP/guess-number-app): Aplicação fullstack com .NET e React onde o usuário tenta adivinhar um número aleatório. Inclui frontend e backend separados.
-- ✂️ [BarberBook](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti2-3687100-barberbook): Sistema de agendamento inteligente para barbearias, com IA aplicada ao visagismo.
-
----
 
 ## Contato
 
