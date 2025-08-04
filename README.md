@@ -59,5 +59,7 @@ Sou estudante de Engenharia de Software na PUC Minas, com experiência prática 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1ulus-batista-27419a264/)
 
 ---
-
+<div align="center">
+  <img height="200" src="https://media.tenor.com/wiMyvo8ZFN0AAAAi/pinguim-penguin.gif" />
+</div>
 
