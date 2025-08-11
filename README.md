@@ -1,7 +1,4 @@
-### Olá! Eu sou o Áulus Batista 🖐️
-
-
-# 👋 Olá, eu sou o Áulus Batista!
+# Olá, eu sou o Áulus Batista!
 
 Sou estudante de Engenharia de Software na PUC Minas, com experiência prática em desenvolvimento fullstack, algoritmos e estrutura de dados. Gosto de aprender coisas novas, resolver problemas e aplicar boas práticas de programação em projetos reais.
 
@@ -16,7 +13,7 @@ Sou estudante de Engenharia de Software na PUC Minas, com experiência prática 
 
 ---
 
-## 🛠Tecnologias que eu uso no meu dia a dia
+## Tecnologias que eu uso no meu dia a dia
 
 ### Linguagens
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
