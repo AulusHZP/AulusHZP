@@ -42,12 +42,6 @@ Sou estudante de Engenharia de Software na PUC Minas, com experiência prática 
 
 ---
 
-## Estatísticas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AulusHZP&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/aulushzp/github-readme-stats)
-
----
-
 
 
 ## Contato
