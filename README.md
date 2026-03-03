@@ -2,8 +2,6 @@
 
 Sou estudante de **Engenharia de Software na PUC Minas**, com experiência prática em desenvolvimento **Fullstack** e foco em **QA**, automação de testes e boas práticas de desenvolvimento.
 
-Gosto de construir soluções eficientes, escaláveis e bem estruturadas, buscando sempre evolução constante em tecnologias modernas e processos de engenharia.
-
 ---
 
 ## Sobre mim
@@ -11,8 +9,6 @@ Gosto de construir soluções eficientes, escaláveis e bem estruturadas, buscan
 - Graduando em Engenharia de Software pela **PUC Minas**
 - Experiência prática em **Desenvolvimento Web Fullstack**
 - Atuação como estágiario de **QA** (Web e Mobile)
-- Interesses: Backend, Estruturas de Dados, IA aplicada
-- Foco em boas práticas como versionamento, testes automatizados, modelagem e qualidade de código
 
 ---
 
@@ -51,10 +47,6 @@ Gosto de construir soluções eficientes, escaláveis e bem estruturadas, buscan
 ### QA e Testes Automatizados
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Maestro](https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white)
-
-- Automação de testes end-to-end (E2E) em aplicações Web utilizando **Playwright**
-- Automação de testes em aplicações Mobile utilizando **Maestro**
-- Experiência com testes funcionais, testes regressivos e validação de fluxos críticos
 
 ---
 
