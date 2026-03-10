@@ -2,6 +2,8 @@
 
 Sou estudante de **Engenharia de Software na PUC Minas**, com experiência prática em desenvolvimento **Fullstack** e foco em **QA**, automação de testes e boas práticas de desenvolvimento.
 
+https://aulushzp.vercel.app/
+
 ---
 
 ## Sobre mim
