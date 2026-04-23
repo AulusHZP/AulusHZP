@@ -2,15 +2,13 @@
 
 Sou estudante de **Engenharia de Software na PUC Minas**, com experiência prática em desenvolvimento **Fullstack** e foco em **QA**, automação de testes e boas práticas de desenvolvimento.
 
-https://aulushzp.vercel.app/
-
 ---
 
 ## Sobre mim
 
 - Graduando em Engenharia de Software pela **PUC Minas**
 - Experiência prática em **Desenvolvimento Web Fullstack**
-- Atuação como estágiario de **QA** (Web e Mobile)
+- Atuação como estagiário de **QA** (Web, Mobile e API)
 
 ---
 
@@ -68,7 +66,6 @@ Atualmente busco oportunidades para crescer na área de **QA**, atuando com auto
 
 ## Contato
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aulushzp)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1ulus-batista-27419a264/)
 
 ---
