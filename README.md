@@ -1,6 +1,6 @@
 # Olá, eu sou o Áulus Batista!
 
-Sou estudante de **Engenharia de Software na PUC Minas**, com experiência prática em desenvolvimento **Fullstack** e foco em **QA**, automação de testes e boas práticas de desenvolvimento.
+Sou estudante de **Engenharia de Software na PUC Minas**. Desenvolvo aplicações web em projetos acadêmicos e pessoais e tenho experiência em **QA**, com testes manuais e automação web e de APIs.
 
 ---
 
@@ -59,14 +59,14 @@ Sou estudante de **Engenharia de Software na PUC Minas**, com experiência prát
 
 ## Objetivo
 
-Atualmente busco oportunidades para crescer na área de **QA**, atuando com automação de testes e garantindo a qualidade de aplicações, contribuindo com equipes que valorizam boas práticas, melhoria contínua e entregas consistentes.
+Busco oportunidades em **desenvolvimento de software** e **QA**, nas quais possa contribuir com a criação de aplicações, testes e automação, enquanto continuo aprendendo com a equipe.
 
 
 ---
 
 ## Contato
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1ulus-batista-27419a264/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aulus-batista/)
 
 ---
 
